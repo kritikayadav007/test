@@ -1,0 +1,5 @@
+/home/priyanshu/n/training-data/rob/a.jpg 0
+/home/priyanshu/n/training-data/rob/b.jpg 0
+/home/priyanshu/n/training-data/rob/c.jpg 0
+/home/priyanshu/n/training-data/rob/d.jpg 0
+/home/priyanshu/n/training-data/rob/e.jpg 0
